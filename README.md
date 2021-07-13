@@ -3,7 +3,7 @@ Data Warehouse &amp; Data Mining 2021
 
 กรกนก สังฆพันธ์ 603021852-8
 
-Group Name :
+Group Name : แมวส้มสร้างตัว
 
 1 กรกนก สังฆพันธ์ 603021852-8
 
