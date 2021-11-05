@@ -35,27 +35,27 @@ Group Name : แมวส้มสร้างตัว
 
 * บทที่ 2 Getting to Know Your Data https://github.com/603021852-8/DWDM21/blob/main/Data102_(Chapter2).ipynb
 
-สรุปบที่ 2  https://github.com/603021852-8/DWDM21/blob/main/Chapter2.pdf
-Basic Python
-Casting
-Data Structure
-List
-Loop
-Condition
-Function
-Plot Data
-Besic Data
-การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
-Boxplot
-Time Series Plot
-Visualizetion
-Scatter plot
-Plot
-Bar chart
-Histogram
-Distance Numpy
-Numpy Array
-Distance Matrix
+> สรุปบที่ 2  https://github.com/603021852-8/DWDM21/blob/main/Chapter2.pdf
+> Basic Python
+> Casting
+> Data Structure
+> List
+> Loop
+> Condition
+> Function
+> Plot Data
+> Besic Data
+> การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+> Boxplot
+> Time Series Plot
+> Visualizetion
+> Scatter plot
+> Plot
+> Bar chart
+> Histogram
+> Distance Numpy
+> Numpy Array
+> Distance Matrix
 
 
 * บทที่ 3 Data Preprocessing https://github.com/603021852-8/DWDM21/blob/main/Data_Preprocessing_(Chapter3).ipynb
