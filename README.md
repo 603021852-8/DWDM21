@@ -20,6 +20,7 @@ Group Name : แมวส้มสร้างตัว
 ## วิชา Data Mining and Data Warehouse
 
 - บทที่ 1 Introduction https://github.com/603021852-8/DWDM21/blob/main/Data101(Chapter2).ipynb
+- DWDM21/blob/main/Data101(Chapter2).ipynb
 
   - สรุปบทที่ 1 https://github.com/603021852-8/DWDM21/blob/main/Chapter1
 
