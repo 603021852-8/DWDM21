@@ -71,20 +71,20 @@ Group Name : แมวส้มสร้างตัว
     - Histogram
   - Distance Numpy https://github.com/603021852-8/DWDM21/blob/main/Distance_Numpy.ipynb
     - Numpy Array
-      -สร้าง numpy array
-      -matrix transpose
-      -สร้าง matrix เริ่มต้น (zeros,ones)
-      -สร้าง matrix random ค่าเเบบมั่วๆ
-       -matrix properties
-      -Indexing & Slicing
-      -Useful functions
-       -วนลูปเอง
-        -summation รวมค่าทุกค่าใน array
+      - สร้าง numpy array
+      - matrix transpose
+      - สร้าง matrix เริ่มต้น (zeros,ones)
+      - สร้าง matrix random ค่าเเบบมั่วๆ
+        - matrix properties
+      - Indexing & Slicing
+      - Useful functions
+        - วนลูปเอง
+        - summation รวมค่าทุกค่าใน array
     - Distance Matrix
-      -Euclidean Distance (L2-norm)
-      -Distance function
-      -Manhattan Distance (L1-norm)
-      -Distance of Binary Value
+      - Euclidean Distance (L2-norm)
+      - Distance function
+      - Manhattan Distance (L1-norm)
+      - Distance of Binary Value
  
 
 
