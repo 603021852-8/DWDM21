@@ -27,7 +27,8 @@ Group Name : แมวส้มสร้างตัว
 
 * บทที่ 2 Getting to Know Your Data https://github.com/603021852-8/DWDM21/blob/main/Data102_(Chapter2).ipynb
 
- สรุปบที่ 2  https://github.com/603021852-8/DWDM21/blob/main/Chapter2.pdf
+ สรุปบที่ 2 
+ https://github.com/603021852-8/DWDM21/blob/main/Chapter2.pdf
  
 
 
