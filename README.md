@@ -21,7 +21,7 @@ Group Name : แมวส้มสร้างตัว
 
 - บทที่ 1 Introduction https://github.com/603021852-8/DWDM21/blob/main/Data101(Chapter2).ipynb
 
-  - สรุปบทที่ 1 https://github.com/603021852-8/DWDM21/blob/main/Chapter1
+  - Short Note 1 https://github.com/603021852-8/DWDM21/blob/main/Chapter1
   - Why Data Mining ? (ทำไมต้องมีการทำเหมืองข้อมูล)
   - What is Data Mining ? (อะไรคือการทำเหมืองข้อมูล)
   - Knowledge Discovery (KDD) Process
@@ -42,7 +42,7 @@ Group Name : แมวส้มสร้างตัว
 
 - บทที่ 2 Getting to Know Your Data https://github.com/603021852-8/DWDM21/blob/main/Data102_(Chapter2).ipynb
 
-  - สรุปบที่ 2 https://github.com/603021852-8/DWDM21/blob/main/Chapter2.pdf
+  - Short Note 2 https://github.com/603021852-8/DWDM21/blob/main/Chapter2.pdf
   - Basic Python https://github.com/603021852-8/DWDM21/blob/main/Data101(Chapter2).ipynb
     - Casting
     - Data Structure
@@ -90,41 +90,116 @@ Group Name : แมวส้มสร้างตัว
 
 - บทที่ 3 Data Preprocessing https://github.com/603021852-8/DWDM21/blob/main/Data_Preprocessing_(Chapter3).ipynb
 
-  - สรุปบทที่ 3
-
+  - Short Note 3
+  - Meta Data (Data ที่ใช้อธิบาย Data)
+  - ชี้ข้อมูลในตาราง
+    - ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+    - ชี้เเบบ .iloc[] (มองข้อมูลเป็น matrix)
+  - Missing Values
+    - Handling Missing Value 1 (ลบค่า Missing )
+    - Handling Missing Value 1.5 (ลบค่า missing เฉพาะใน column ที่เราสนใจ)
+    - Handling Missing Value 2 (เเทนด้วย class ใหม่(Unknown))
+    - Handling Missing Value 3 (เเทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+    - Handling Missing Value4(เเทนด้วย ค่ากลาง)
+    - Handling Missing Value 5 (เเทนด้วย ค่ากลางของ samples ใน class เดียวกัน)
+  - เติมด้วยค่าของ column ใกล้เคียง
+  - Select data by values [PD]
+    - สร้าง list ของ boolean
+    - นำ list ของ boolean มาเลือกค่าในตาราง
+    - การเรียงข้อมูล [PD]
+  - Outlier
+    - Pandas' looping(.iterrows)
+  - การรวมตาราง Data Integration (ต่อตารางในเเนวเเกน x)
+    - รวม 2 ตาราง (.merge())
+    - เลือกเฉพาะ column ที่ต้องการมาเเปะ (.map())
+    - ตารางรอง(ตารางข้างขวา)ต้องไม่มี index ซ้ำ*
+    - Group by (pandas)
+    - [PD] save ตารางเอาไปใช้ที่อื่น
+    - [PD] การสร้างตาราง
 
 
 - บทที่ 4 Data Warehousing and On-line Anaalytical Processing 
-  - สรุปบทที่ 4
+  - Short Note 4 
+  - Metadata Repository
+  - From tables and Spreadsheets to Data Cubes
+  - Data Cube A Lattics of Cuboids
+  - Conceptual Modeling of Data Warehouses
+  - Star Schema:An Example
+  - Snowflake Schema:An Example
+  - Fact Constellation:An Example
+  - Multidimensional Data
+  - A Sample Data Cube
+  - Typical OLAP Operations
+  - A Star-Net Query Model
+  - What is a Data Warehouse? (Data Warehouse คืออะไร ?)
+  - ประเภทของ Data Warehouse
+  - Data Warehouse-Subject-Oriented
+  - Data Warehouse-Integrated
+  - Data Warehouse-Time Variant
+  - Data Warehouse-Nonvolatile
+  - OLTP VS. OLAP
+  - Why a Separate Data Warehouse ?
+  - Data Warehouse A Multi-Tiered Architecture
+  - Three Data Warehouses Models
+  - Extration,Transformation,and Loading (ETL)
 
 
 
-- บทที่ 5 Association_Rules 
+- บทที่ 5 Association_Rules https://github.com/603021852-8/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
   - สรุปบทที่ 5
+  -  [Q] มีประเทศสาขาของ supermarket นี้ทั้งหมดกี่ประเทศ
+  - ลบ records ที่ถูก cancel ออกไป
+  - เพิ่มคอลัมน์ ยอดขาย (Quantity*UnitPrice)
+  - เพิ่ม column ราคารวม
+  - เตรียม Data สำหรับ (Frequence Pattern) Association Rule
+  - Apriori
 
 
 
 
-- บทที่ 6 Classification https://github.com/603021852-8/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
+- บทที่ 6 Classification Association  https://github.com/603021852-8/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
 
-  - สรุปบที่ 6
+  - Shot Note 6
+  - ลบ records ที่ถูก cancel ออกไป
+  - การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
+  - เตรียม Data สำหรับ (Fequence Pattern) Association Rule
+  - Apriori
+  - (Quiz 7)
 
 
+- บทที่ 7 Classification  https://github.com/603021852-8/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb
 
-- บทที่ 7 Clustering https://github.com/603021852-8/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb
-
-  - สรุปบทที่ 7
-  - K-means
-  - Generate Data
-  - Clustering
-  - Example Application (Color Quantization)
-  - การนับจำนวนสี
+  - Shot Note 7
+  - Load Data
+  - train (ฝึกสอนตัวแบบ)
+  - plot tree
+  - Evaluation
+  - Random
+  - Advanced Tree
+  - TEST
+  - Start here
+  - Train - Test
+  - Train - Validation
+  - การบ้านครั้งที่ 16
 
 
 - บทที่ 8 Chap_8_Clustering https://github.com/603021852-8/DWDM21/blob/main/chapter8_Clustering.ipynb
 
-  - สรุปบที่ 8
+  - K-means
+  - Generat Data
+  - Explole data
+  - Clustering
+  - ตัวอย่าง
+  - นับจำนวนสี
+  - จัดกลุ่มสีให้เหลือ 16 สี
+  - แปลงข้อมูลให้อยู่ในรูป row-column
+  - ใช้ centroid เป็นตัวแทนของสี
+  - แทนสีคืนลงไป
+  - Hierachical Clustering
+  - Clustering Evaluation
+  
 
 - สอบมิดเทอม MiniExam https://github.com/603021852-8/DWDM21/blob/main/MiniExam.ipynb
 
 - โปรเจค Project https://github.com/603021852-8/DWDM21/blob/main/Group_Project.ipynb
+  - Slide นำเสนอ https://github.com/603021852-8/DWDM21/blob/main/%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD_PROJECT_DWDM21.pdf
