@@ -20,15 +20,71 @@ Group Name : แมวส้มสร้างตัว
 ## วิชา Data Mining and Data Warehouse
 
 - บทที่ 1 Introduction https://github.com/603021852-8/DWDM21/blob/main/Data101(Chapter2).ipynb
-- DWDM21/blob/main/Data101(Chapter2).ipynb
 
   - สรุปบทที่ 1 https://github.com/603021852-8/DWDM21/blob/main/Chapter1
-
+  - Why Data Mining ? (ทำไมต้องมีการทำเหมืองข้อมูล)
+  - What is Data Mining ? (อะไรคือการทำเหมืองข้อมูล)
+  - Knowledge Discovery (KDD) Process
+  - กระบวนการจัดการข้อมูล
+  - Data Mining in Business Intelligence
+  - เนื้อหาหลักของ Data Mining ประกอบด้วย 3 เรื่อง
+    - Pattern Discovery (หารูปแบบที่ซ่อนในข้อมูล)
+    - Classification (จำแนกข้อมูล)
+    - Clustering (จัดกลุ่มข้อมูล)
+  - How the data suppose to look like ประกอบไปด้วย
+    - Columns(แนวตั้ง) = Attributes,Fields,Features (คำอธิบายคุณสมบัติของข้อมูล)
+    - row (แถว) = Records,Data point (ข้อมูลแต่ละตัว)
+  - เทคนิคของ Data Mining ประกอบด้วย 3 เรื่อง
+    - Data Mining Functions:(2) Pattern Discovery
+    - Data Mining Functions:(3) Classification
+    - Data Mining Functions:(4) Cluster Analysis
 
 
 - บทที่ 2 Getting to Know Your Data https://github.com/603021852-8/DWDM21/blob/main/Data102_(Chapter2).ipynb
 
   - สรุปบที่ 2 https://github.com/603021852-8/DWDM21/blob/main/Chapter2.pdf
+  - Basic Python https://github.com/603021852-8/DWDM21/blob/main/Data101(Chapter2).ipynb
+    - Casting
+    - Data Structure
+      -วิธีสร้าง list ว่าง
+        -การชี้ค่าใน list (Indexing)
+      -list slicing
+      -list + list
+       -fomat string
+    - Loop
+       -Nested loop (loop ซ้อน Loop)
+    - Condition (if statement)
+    - Function
+      -Example 1
+      -ลักษณะของ input (parameter,argument)
+  - Plot Data https://github.com/603021852-8/DWDM21/blob/main/Data102_(Chapter2).ipynb
+    - Basic Data
+    - การใช้ .head() .tail() ในการเรียกดูตาราง
+    - Boxplot
+    - Time Series Plot
+  - Visualization https://github.com/603021852-8/DWDM21/blob/main/Data_Visualization.ipynb
+    - Scatter plot
+    - Plot
+    - Bar chart
+      -Grouped Barchart
+      -Stacked Barchart
+    - Histogram
+  - Distance Numpy https://github.com/603021852-8/DWDM21/blob/main/Distance_Numpy.ipynb
+    - Numpy Array
+      -สร้าง numpy array
+      -matrix transpose
+      -สร้าง matrix เริ่มต้น (zeros,ones)
+      -สร้าง matrix random ค่าเเบบมั่วๆ
+       -matrix properties
+      -Indexing & Slicing
+      -Useful functions
+       -วนลูปเอง
+        -summation รวมค่าทุกค่าใน array
+    - Distance Matrix
+      -Euclidean Distance (L2-norm)
+      -Distance function
+      -Manhattan Distance (L1-norm)
+      -Distance of Binary Value
  
 
 
