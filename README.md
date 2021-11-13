@@ -146,8 +146,8 @@ Group Name : แมวส้มสร้างตัว
 
 
 - บทที่ 5 Association_Rules https://github.com/603021852-8/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
-  - สรุปบทที่ 5
-  -  [Q] มีประเทศสาขาของ supermarket นี้ทั้งหมดกี่ประเทศ
+  - Shot Note 5
+  - [Q] มีประเทศสาขาของ supermarket นี้ทั้งหมดกี่ประเทศ
   - ลบ records ที่ถูก cancel ออกไป
   - เพิ่มคอลัมน์ ยอดขาย (Quantity*UnitPrice)
   - เพิ่ม column ราคารวม
