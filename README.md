@@ -40,7 +40,7 @@ Group Name : แมวส้มสร้างตัว
     - Data Mining Functions:(4) Cluster Analysis
 
 
-- บทที่ 2 Getting to Know Your Data https://github.com/603021852-8/DWDM21/blob/main/Data102_(Chapter2).ipynb
+- บทที่ 2 Getting to Know Your Data 
 
   - Short Note 2 https://github.com/603021852-8/DWDM21/blob/main/Chapter2.pdf
   - Basic Python https://github.com/603021852-8/DWDM21/blob/main/Data101(Chapter2).ipynb
@@ -119,7 +119,7 @@ Group Name : แมวส้มสร้างตัว
 
 
 - บทที่ 4 Data Warehousing and On-line Anaalytical Processing 
-  - Short Note 4 
+  - Short Note 4 https://github.com/603021852-8/DWDM21/blob/main/Short%20note%204.pdf
   - What is a Data Warehouse?
   - From Tables and Spreadsheets to Data Cubes
   - Conceptual Modeling of Data Warehouses
@@ -135,7 +135,7 @@ Group Name : แมวส้มสร้างตัว
   - Drill through
 
 
-- บทที่ 5 Association_Rules https://github.com/603021852-8/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
+- บทที่ 5 https://github.com/603021852-8/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
   - Shot Note 5
   - [Q] มีประเทศสาขาของ supermarket นี้ทั้งหมดกี่ประเทศ
   - ลบ records ที่ถูก cancel ออกไป
@@ -147,33 +147,53 @@ Group Name : แมวส้มสร้างตัว
 
 
 
-- บทที่ 6 Classification Association  https://github.com/603021852-8/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
-
-  - Shot Note 6
-  - ลบ records ที่ถูก cancel ออกไป
-  - การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
-  - เตรียม Data สำหรับ (Fequence Pattern) Association Rule
-  - Apriori
-  - (Quiz 7)
-
-
-- บทที่ 7 Classification  https://github.com/603021852-8/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb
-
-  - Shot Note 7
-  - Load Data
-  - train (ฝึกสอนตัวแบบ)
-  - plot tree
+- บทที่ 6 Classifications https://github.com/603021852-8/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb
+  - Short Note 6
+  - Decision Tree
+    - Load Data
+  - Train Model
+    - import (เรียกใช้ algorithm ที่เราต้องการ)
+    - Define (กำหนด parameters ให้กับ model)
+    - train (ฝึกสอนตัวแบบ)
+  - Plot Tree
   - Evaluation
-  - Random
+    - Random
   - Advanced Tree
+    - Import
+    - Define
+    - Train
   - TEST
   - Start here
-  - Train - Test
-  - Train - Validation
-  - การบ้านครั้งที่ 16
+    - Import
+    - Define
+    - Train
+    - Evaluate
+  - KNN-NN https://github.com/603021852-8/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb
+    - Load Data
+    - Split Data
+    - Train Model
+      - Import
+      - knn1
+      - knn2
+      - knn3
+  - Retrain & Evaluate
+  - Neural Network
+    - Import
+    - Define
+    - Train-Test
+    - ANN 2
+    - ANN 3
+  - Evaluation https://github.com/603021852-8/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb
+    - Load data
+    - แบ่ง Data
+    - สร้าง Model ทำนาย
+      - Import
+      - Define
+      - Train
+    - Evaluation
 
 
-- บทที่ 8 Chap_8_Clustering https://github.com/603021852-8/DWDM21/blob/main/chapter8_Clustering.ipynb
+- บทที่ 7 Clustering https://github.com/603021852-8/DWDM21/blob/main/chapter8_Clustering.ipynb
 
   - K-means
   - Generat Data
