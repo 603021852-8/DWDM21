@@ -212,4 +212,23 @@ Group Name : แมวส้มสร้างตัว
 - สอบมิดเทอม MiniExam https://github.com/603021852-8/DWDM21/blob/main/MiniExam.ipynb
 
 - โปรเจค Project https://github.com/603021852-8/DWDM21/blob/main/Group_Project.ipynb
-  - Slide นำเสนอ https://github.com/603021852-8/DWDM21/blob/main/%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD_PROJECT_DWDM21.pdf
+   - Data and Preprocessing
+       - เว็บที่มาของข้อมูล
+       - ตาราง sellers
+       - ตาราง order_items
+       - ตาราง products
+       - เชื่อมตาราง
+   - ปัญหา
+       - Association Rules
+       - Classification
+          - ประโยชน์ของการทำนาย
+          - Split Data
+          - Decision Tree
+          - KNN
+          - Neural Network
+              - พล็อตกราฟเปรียบเทียบความแม่นยำของการวัดผล
+              - Retrain & Evaluate
+   - Visulization
+       - เปรียบเทียบจำนวนสินค้าที่ขายได้ในแต่ล่ะ category
+       - เปรียบเทียบ ราคา,ค่าส่ง,ความสูง,ความยาว,น้ำหนัก และ ความกว้าง เฉลี่ย ของแต่ล่ะ category
+   - Slide นำเสนอ https://github.com/603021852-8/DWDM21/blob/main/%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD_PROJECT_DWDM21.pdf
