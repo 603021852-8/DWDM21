@@ -15,9 +15,9 @@ Group Name : แมวส้มสร้างตัว
 
 5 นางสาวอาธิติยา ธรรมวงษา 623021058-0
 
-#สารบัญเนื้อหา
+# สารบัญเนื้อหา
 
-##วิชา Data Mining and Data Warehouse
+## วิชา Data Mining and Data Warehouse
 
 - บทที่ 1 Introduction https://github.com/603021852-8/DWDM21/blob/main/Data101(Chapter2).ipynb
 
