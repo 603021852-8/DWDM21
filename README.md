@@ -120,29 +120,19 @@ Group Name : แมวส้มสร้างตัว
 
 - บทที่ 4 Data Warehousing and On-line Anaalytical Processing 
   - Short Note 4 
-  - Metadata Repository
-  - From tables and Spreadsheets to Data Cubes
-  - Data Cube A Lattics of Cuboids
+  - What is a Data Warehouse?
+  - From Tables and Spreadsheets to Data Cubes
   - Conceptual Modeling of Data Warehouses
-  - Star Schema:An Example
-  - Snowflake Schema:An Example
-  - Fact Constellation:An Example
-  - Multidimensional Data
-  - A Sample Data Cube
+  - Star Schema: An Example
+  - Snowflake Schema: An Example
+  - Fact Constellation: An Example
   - Typical OLAP Operations
-  - A Star-Net Query Model
-  - What is a Data Warehouse? (Data Warehouse คืออะไร ?)
-  - ประเภทของ Data Warehouse
-  - Data Warehouse-Subject-Oriented
-  - Data Warehouse-Integrated
-  - Data Warehouse-Time Variant
-  - Data Warehouse-Nonvolatile
-  - OLTP VS. OLAP
-  - Why a Separate Data Warehouse ?
-  - Data Warehouse A Multi-Tiered Architecture
-  - Three Data Warehouses Models
-  - Extration,Transformation,and Loading (ETL)
-
+  - Roll up (drill-up)
+  - Drill down (roll down)
+  - Slice and dice
+  - Pivot (rotate)
+  - Drill across
+  - Drill through
 
 
 - บทที่ 5 Association_Rules https://github.com/603021852-8/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
