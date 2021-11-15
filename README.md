@@ -27,17 +27,12 @@ Group Name : แมวส้มสร้างตัว
   - Knowledge Discovery (KDD) Process
   - กระบวนการจัดการข้อมูล
   - Data Mining in Business Intelligence
-  - เนื้อหาหลักของ Data Mining ประกอบด้วย 3 เรื่อง
-    - Pattern Discovery (หารูปแบบที่ซ่อนในข้อมูล)
-    - Classification (จำแนกข้อมูล)
-    - Clustering (จัดกลุ่มข้อมูล)
-  - How the data suppose to look like ประกอบไปด้วย
-    - Columns(แนวตั้ง) = Attributes,Fields,Features (คำอธิบายคุณสมบัติของข้อมูล)
-    - row (แถว) = Records,Data point (ข้อมูลแต่ละตัว)
-  - เทคนิคของ Data Mining ประกอบด้วย 3 เรื่อง
-    - Data Mining Functions:(2) Pattern Discovery
-    - Data Mining Functions:(3) Classification
-    - Data Mining Functions:(4) Cluster Analysis
+  - Data Sources ?
+  - Data Warehouse
+     - Data Mining
+     - Data Presentation
+     - Decision Making 
+  - ขั้นตอนการทำเหมืองข้อมูล
 
 
 - บทที่ 2 Getting to Know Your Data 
